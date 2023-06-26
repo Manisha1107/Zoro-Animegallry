@@ -24,7 +24,7 @@ export const cardsData = [
       "https://m.media-amazon.com/images/M/MV5BYTIxNjk3YjItYmYzMC00ZTdmLTk0NGUtZmNlZTA0NWFkZDMwXkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_FMjpg_UX1000_.jpg",
     title: "Demon Slayer",
     tname:
-      "it adapts the story from volume 12(chapter 98 onwards) of the manga series Demon slayer...",
+      "it adapts the story from volume 12(chapter 98 onwards) of the manga series Demon slayer worth watching...",
     duration: "TV . 23m",
   },
   {
@@ -33,7 +33,7 @@ export const cardsData = [
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/640x360/catalog/crunchyroll/0273e80242d80b0218f640e038269c18.jpe ",
     title: "Black Clover",
     tname:
-      "Asta and Yuna were abandoned at the same church on the same delayed together as children...",
+      "Asta and Yuna were abandoned at the same church on the same delayed together as children good movie...",
     duration: "TV . 23m",
   },
   {
@@ -132,133 +132,6 @@ export const cardsData = [
   },
   {
     id: 16,
-    imageURL:
-      "https://www.filmspourenfants.net/wp-content/uploads/2018/07/one-piece-serie-a.jpg",
-    title: "One piece",
-    tname: "one piece is worth watching",
-    duration: "TV . 23m",
-  },
-  {
-    id: 17,
-    imageURL:
-      "https://www.filmspourenfants.net/wp-content/uploads/2018/07/one-piece-serie-a.jpg",
-    title: "One piece",
-    tname: "one piece is worth watching",
-    duration: "TV . 23m",
-  },
-  {
-    id: 18,
-    imageURL:
-      "https://www.filmspourenfants.net/wp-content/uploads/2018/07/one-piece-serie-a.jpg",
-    title: "One piece",
-    tname: "one piece is worth watching",
-    duration: "TV . 23m",
-  },
-  {
-    id: 19,
-    imageURL:
-      "https://www.filmspourenfants.net/wp-content/uploads/2018/07/one-piece-serie-a.jpg",
-    title: "One piece",
-    tname: "one piece is worth watching",
-  },
-  {
-    id: 20,
-    imageURL:
-      "https://www.filmspourenfants.net/wp-content/uploads/2018/07/one-piece-serie-a.jpg",
-    title: "One piece",
-    tname: "one piece is worth watching ",
-    duration: "TV . 23m",
-  },
-  {
-    id: 21,
-    imageURL:
-      "https://www.filmspourenfants.net/wp-content/uploads/2018/07/one-piece-serie-a.jpg",
-    title: "One piece",
-    tname: "one piece is worth watching",
-    duration: "TV . 23m",
-  },
-  {
-    id: 22,
-    imageURL:
-      "https://www.filmspourenfants.net/wp-content/uploads/2018/07/one-piece-serie-a.jpg",
-    title: "One piece",
-    tname: "one piece is worth watching",
-    duration: "TV . 23m",
-  },
-  {
-    id: 23,
-    imageURL:
-      "https://www.filmspourenfants.net/wp-content/uploads/2018/07/one-piece-serie-a.jpg",
-    title: "One piece",
-    tname: "one piece is worth watching",
-    duration: "TV . 23m",
-  },
-  {
-    id: 24,
-    imageURL:
-      "https://www.filmspourenfants.net/wp-content/uploads/2018/07/one-piece-serie-a.jpg",
-    title: "One piece",
-    tname: "one piece is worth watching",
-    duration: "TV . 23m",
-  },
-  {
-    id: 25,
-    imageURL:
-      "https://www.filmspourenfants.net/wp-content/uploads/2018/07/one-piece-serie-a.jpg",
-    title: "One piece",
-    tname: "one piece is worth watching",
-    duration: "TV . 23m",
-  },
-  {
-    id: 26,
-    imageURL:
-      "https://www.filmspourenfants.net/wp-content/uploads/2018/07/one-piece-serie-a.jpg",
-    title: "One piece",
-    tname: "one piece is worth watching",
-    duration: "TV . 23m",
-  },
-  {
-    id: 27,
-    imageURL:
-      "https://www.filmspourenfants.net/wp-content/uploads/2018/07/one-piece-serie-a.jpg",
-    title: "One piece",
-    tname: "one piece is worth watching",
-    duration: "TV . 23m",
-  },
-  {
-    id: 28,
-    imageURL:
-      "https://www.filmspourenfants.net/wp-content/uploads/2018/07/one-piece-serie-a.jpg",
-    title: "One piece",
-    tname: "one piece is worth watching",
-    duration: "TV . 23m",
-  },
-  {
-    id: 29,
-    imageURL:
-      "https://www.filmspourenfants.net/wp-content/uploads/2018/07/one-piece-serie-a.jpg",
-    title: "One piece",
-    tname: "one piece is worth watching",
-    duration: "TV . 23m",
-  },
-  {
-    id: 30,
-    imageURL:
-      "https://www.filmspourenfants.net/wp-content/uploads/2018/07/one-piece-serie-a.jpg",
-    title: "One piece",
-    tname: "one piece is worth watching",
-    duration: "TV . 23m",
-  },
-  {
-    id: 31,
-    imageURL:
-      "https://www.filmspourenfants.net/wp-content/uploads/2018/07/one-piece-serie-a.jpg",
-    title: "One piece",
-    tname: "one piece is worth watching",
-    duration: "TV . 23m",
-  },
-  {
-    id: 32,
     imageURL:
       "https://www.filmspourenfants.net/wp-content/uploads/2018/07/one-piece-serie-a.jpg",
     title: "One piece",

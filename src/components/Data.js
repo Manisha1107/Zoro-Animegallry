@@ -1,3 +1,5 @@
+import Today from "./Today";
+
 export const sideData = [
   {
     number: "02",
@@ -5,6 +7,7 @@ export const sideData = [
       "https://cdn.sortiraparis.com/images/1001/66131/876480-naruto-shippuden-un-escape-game-itinerant-dans-plusieurs-centre-commerciaux-d-ile-de-france.jpg",
 
     content: "Naruto",
+    category: "Today",
   },
   {
     number: "03",
@@ -17,6 +20,7 @@ export const sideData = [
     image:
       "https://www.crunchyroll.com/imgsrv/display/thumbnail/640x360/catalog/crunchyroll/0273e80242d80b0218f640e038269c18.jpe ",
     content: "Black Clover",
+    category: "Today",
   },
   {
     number: "05",
